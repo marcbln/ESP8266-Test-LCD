@@ -1,0 +1,28 @@
+repo_name: marcbln/ESP8266-Test-LCD
+report_id: dc1f6446050fa24c3f20dbff34dd18de
+repo_type: Public
+timestamp: '2023-11-09T18:03:22+00:00'
+requested_by: whyoo-os
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
